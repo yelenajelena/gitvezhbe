@@ -1,1 +1,2 @@
 Ovo je moj prvi red.
+Ovo je drugi red u fajlu.
